@@ -2,10 +2,10 @@
   "version": "0.1.0",
   "x86_64-linux": {
     "url": "https://github.com/boatette/selector-flake/releases/download/v0.1.0/selector-0.1.0-x86_64-linux.tar.gz",
-    "hash": "sha256-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA="
+    "hash": "sha256-zg+fddSIXywAFqy/K1gPRujoXLeGwPkCoRiqD36zcpc="
   },
   "aarch64-linux": {
     "url": "https://github.com/boatette/selector-flake/releases/download/v0.1.0/selector-0.1.0-aarch64-linux.tar.gz",
-    "hash": "sha256-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA="
+    "hash": "sha256-pQz5B6yY2p4L7G/+ALLptjTJCAwoo85+/0n28GdUnpg="
   }
 }
